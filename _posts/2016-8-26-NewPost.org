@@ -1,1 +1,8 @@
 * First jekyll 
+
+2016-08-26 
+- [Jekyll Now が超絶便利}(http://plus.appgiga.jp/masatolan/2015/01/13/55047/) を読んで，
+- https://github.com/barryclark/jekyll-now
+
+org で書けるが，blog表示と相性が悪いかも
+
